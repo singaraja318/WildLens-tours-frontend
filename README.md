@@ -33,5 +33,5 @@ Welcome to **WildLens Tours**, a comprehensive platform for discovering and book
 
 ## 🤝 Connect with Me
 
-💼 **LinkedIn:** [Balamurugan A](https://www.linkedin.com/in/singaraja318/)<br>
+💼 **LinkedIn:** [singaraja318](https://www.linkedin.com/in/singaraja318/)<br>
 
