@@ -31,7 +31,5 @@ Welcome to **WildLens Tours**, a comprehensive platform for discovering and book
 - **Authentication**: **JWT** & **Bcrypt** - Ensures secure user authentication and password management.
 - **Payment Gateway**: **Razorpay** - Handles secure transactions for tour reservations.
 
-## 🤝 Connect with Me
 
-💼 **LinkedIn:** [singaraja318](https://www.linkedin.com/in/singaraja318/)<br>
 
